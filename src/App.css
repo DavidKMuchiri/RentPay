@@ -1,5 +1,7 @@
-h1{
-  color: rgb(0, 132, 155);
-  text-decoration: underline;
-  text-decoration-color: black;
+.blue{
+    background-color: teal;
+}
+
+.font1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
